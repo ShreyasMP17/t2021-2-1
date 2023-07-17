@@ -9,7 +9,7 @@ To use the program, follow these steps:
 
 1. Clone or download the repository to your local machine.
 
-2. Open the `index.html` file in your web browser.
+2. Open the file
 
 3. In the web page that opens, enter two numbers in the input fields provided.
 
