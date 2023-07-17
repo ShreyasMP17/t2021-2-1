@@ -1,4 +1,4 @@
-yo# t2021-2-1
+# t2021-2-1
 # Simple Math Operations in JavaScript
 
 A simple JavaScript program that performs addition, subtraction, and multiplication of two numbers.
@@ -54,5 +54,7 @@ Here are some examples of how to use the program:
    input a=5 then output= 1,3,5,7,9
    input a=6 then output= 1,3,5,7,9
 
-  
+  4. Input: [1,2,8,9,12,46,76,82,15,20,30]
+    Output:
+        {1: 11, 2: 8, 3: 4, 4: 4, 5: 3, 6: 2, 7: 0, 8: 1, 9: 1}
 
