@@ -1,4 +1,4 @@
-# t2021-2-1
+yo# t2021-2-1
 # Simple Math Operations in JavaScript
 
 A simple JavaScript program that performs addition, subtraction, and multiplication of two numbers.
@@ -15,7 +15,7 @@ To use the program, follow these steps:
 
 4.Open the new terminal create it.
 
-5. For compile and run the program " node filename.js "
+5. For compile and run the program " node filename.js " ex: Program-1.js
 
 6. The result will be displayed below .
 
@@ -23,7 +23,8 @@ To use the program, follow these steps:
 
 Here are some examples of how to use the program:
 
-1. a = 10;
+1.
+  ✓ a = 10;
    b = 20;
    operation = '+';
    
@@ -31,3 +32,27 @@ Here are some examples of how to use the program:
    typeof a = number;
    typeof b = number;
    typeof result = number;
+
+   ✓ a = 30;
+     b = 20;
+     operation = '-';
+   
+   result = 10;
+   typeof a = number;
+   typeof b = number;
+   typeof result = number;
+
+2. input a=1 then output= 1
+   input a=2 then output= 1,3
+   input a=3 then output= 1,3,5
+   input a=4 then output= 1,3,5,7
+
+3. input a=1 then output= 1
+   input a=2 then output= 1
+   input a=3 then output= 1,3,5
+   input a=4 then output= 1,3,5
+   input a=5 then output= 1,3,5,7,9
+   input a=6 then output= 1,3,5,7,9
+
+  
+
