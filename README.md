@@ -11,24 +11,23 @@ To use the program, follow these steps:
 
 2. Open the file
 
-3. In the web page that opens, enter two numbers in the input fields provided.
+3. create a file filename.js
 
-4. Click the "Add", "Subtract", or "Multiply" button to perform the corresponding operation.
+4.Open the new terminal create it.
 
-5. The result will be displayed below the buttons.
+5. For compile and run the program " node filename.js "
+
+6. The result will be displayed below .
 
 ## Examples
 
 Here are some examples of how to use the program:
 
-1. Addition:
-   Input: 5, 10
-   Result: 5 + 10 = 15
-
-2. Subtraction:
-   Input: 15, 7
-   Result: 15 - 7 = 8
-
-3. Multiplication:
-   Input: 3, 4
-   Result: 3 * 4 = 12
+1. a = 10;
+   b = 20;
+   operation = '+';
+   
+   result = 30;
+   typeof a = number;
+   typeof b = number;
+   typeof result = number;
